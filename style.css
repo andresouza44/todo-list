@@ -12,8 +12,13 @@ input[type=text]:focus {
 
 .todos-container li {
   background: #484E53;
+ 
 }
 
 .delete {
   cursor: pointer;
+}
+
+.hidden{
+  display: none;
 }
